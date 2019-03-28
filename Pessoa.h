@@ -3,11 +3,14 @@
 #include <string>
 using std::string;
 
+
 class Pessoa
 {
+    
 public:
     Pessoa();
     ~Pessoa();
+    
 private:
     int rg;
 
