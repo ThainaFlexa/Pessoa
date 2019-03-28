@@ -1,7 +1,7 @@
 #ifndef PESSOA_H
 #define PESSOA_H
 #include <string>
-using std::string
+using std::string;
 
 class Pessoa
 {
